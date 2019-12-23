@@ -1,4 +1,4 @@
-FROM balena/open-balena-base:v9.0.2 as base
+FROM balena/open-balena-base:v9.0.2
 
 # For debugging purposes
 RUN echo "deb http://apt.postgresql.org/pub/repos/apt/ buster-pgdg main" > /etc/apt/sources.list.d/pgdg.list
@@ -23,10 +23,14 @@ RUN apt-get update && apt-get install -y gnuplot \
 	python-pip libx11-xcb1 libxcomposite1 \
 	libxcursor1 libxdamage1 libxi6 libxtst6 libnss3 libcups2 libxss1 libxrandr2 \
 	gconf-gsettings-backend libasound2 libatk1.0-0 libgtk-3-0 \
-	shellcheck redis-server postgresql-11
+	shellcheck redis-server postgresql-11 \
+	rabbitmq-server
 
 # Redis will try to set ulimit at startup, and that won't work
 # in non-privileged containers
 RUN sed -i 's/[ \t]*ulimit.*/:/g' /etc/init.d/redis-server
 
-RUN npm install --unsafe --global balena-cli
+RUN npm install --unsafe-perm --global balena-cli
+
+# So we can use rabbitmqadmin
+RUN rabbitmq-plugins enable rabbitmq_management
