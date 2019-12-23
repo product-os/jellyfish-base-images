@@ -1,0 +1,9 @@
+---
+docker:
+  builds:
+    - path: .
+      dockerfile: Dockerfile
+      docker_repo: resinci/jellyfish-base
+    - path: .
+      dockerfile: Dockerfile.test
+      docker_repo: resinci/jellyfish-test
