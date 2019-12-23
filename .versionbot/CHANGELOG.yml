@@ -1,0 +1,21 @@
+- commits:
+    - subject: README.md
+      hash: 206119021f1ee5a944612ffd23f48f4c3a4eda59
+      body: ''
+      footer:
+        Change-type: major
+        change-type: major
+        Signed-off-by: Federico Fissore <federico@balena.io>
+        signed-off-by: Federico Fissore <federico@balena.io>
+      author: Federico Fissore
+    - subject: First impl
+      hash: 09611505faf0c31e8514eca30ec7dd2c78399013
+      body: ''
+      footer:
+        Change-type: major
+        change-type: major
+        Signed-off-by: Federico Fissore <federico@balena.io>
+        signed-off-by: Federico Fissore <federico@balena.io>
+      author: Federico Fissore
+  version: 1.0.0
+  date: 2019-12-23T09:29:38.360Z
