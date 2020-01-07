@@ -1,4 +1,16 @@
 - commits:
+    - subject: Drop jellyfish-base image Add rabbitmq stuff to jellyfish-test image
+      hash: f7651a15c099927653f56449aced3f31e4df95d2
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Federico Fissore <federico@balena.io>
+        signed-off-by: Federico Fissore <federico@balena.io>
+      author: Federico Fissore
+  version: 1.1.0
+  date: 2019-12-23T18:49:08.952Z
+- commits:
     - subject: README.md
       hash: 206119021f1ee5a944612ffd23f48f4c3a4eda59
       body: ''
