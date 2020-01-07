@@ -1,4 +1,16 @@
 - commits:
+    - subject: Updated open-balena-base to 9.0.3
+      hash: 2dba6268a3edf205fbaf5a4b2b24624673f5ece1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Federico Fissore <federico@balena.io>
+        signed-off-by: Federico Fissore <federico@balena.io>
+      author: Federico Fissore
+  version: 1.1.1
+  date: 2020-01-07T14:42:32.169Z
+- commits:
     - subject: Drop jellyfish-base image Add rabbitmq stuff to jellyfish-test image
       hash: f7651a15c099927653f56449aced3f31e4df95d2
       body: ''
