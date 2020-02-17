@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update open-balena-base to latest 9.2.0
+      hash: 69009eb82d21b75f45860016726b67d942b968e2
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Federico Fissore <federico@balena.io>
+        signed-off-by: Federico Fissore <federico@balena.io>
+      author: Federico Fissore
+  version: 1.3.0
+  date: 2020-02-17T08:58:12.252Z
+- commits:
     - subject: >-
         Introduce jellyfish-sidecar, sidecar base image used when running e2e
         tests
