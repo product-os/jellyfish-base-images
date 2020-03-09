@@ -1,3 +1,3 @@
 # Jellyfish base images
 
-Base docker images used to run and test jellyfish
+Base docker images used to test jellyfish
