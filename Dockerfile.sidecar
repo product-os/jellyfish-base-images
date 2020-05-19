@@ -4,7 +4,7 @@ RUN apt-get update && apt-get install -y \
 	libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 \
 	libxi6 libxtst6 libnss3 libcups2 libxss1 libxrandr2 \
 	gconf-gsettings-backend libasound2 libatk1.0-0 libgtk-3-0 \
-	postgresql-client-11
+	postgresql-client-11 libxcb-dri3-0 libdrm2 libgbm1
 
 RUN npm install --unsafe-perm --global puppeteer@3.0.2
 
