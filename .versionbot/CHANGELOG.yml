@@ -1,4 +1,16 @@
 - commits:
+    - subject: Update puppeteer to 3.3.0
+      hash: b259024f60f9d7dca7c9ef98db126955614e732b
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+  version: 1.3.9
+  date: 2020-06-04T12:56:26.315Z
+- commits:
     - subject: Add packages for Puppeteer in sidecar
       hash: 425cbfbccd713d89f846ffe9fd17691c144fe945
       body: ''
