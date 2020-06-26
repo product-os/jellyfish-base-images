@@ -1,4 +1,16 @@
 - commits:
+    - subject: 'Update base image tag, set chrome env var'
+      hash: 9ead31814f27998057115702185f9e3b7db592cf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+  version: 1.3.12
+  date: 2020-06-26T08:52:13.107Z
+- commits:
     - subject: Update Puppeteer to 4.0.1
       hash: 310677bdf6736001c0e18d735f4bc9056ff20a67
       body: ''
