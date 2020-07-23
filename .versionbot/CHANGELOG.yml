@@ -1,4 +1,17 @@
 - commits:
+    - subject: Bump Puppeteer to 5.2.1
+      hash: 12928c02b3a1c562a4f173c2a1c4b0ce485888f1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.16
+  date: 2020-07-23T02:27:29.244Z
+- commits:
     - subject: Bump Puppeteer to 5.2.0
       hash: 49cd9946d4dc39d4320000d4aa26b62c244d7428
       body: ''
