@@ -1,4 +1,17 @@
 - commits:
+    - subject: Upgrade Postgres packages from 11 to 12
+      hash: 4adefe1b72a2112ba357167822a2609fb31e6257
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.17
+  date: 2020-08-21T05:56:36.542Z
+- commits:
     - subject: Bump Puppeteer to 5.2.1
       hash: 12928c02b3a1c562a4f173c2a1c4b0ce485888f1
       body: ''
