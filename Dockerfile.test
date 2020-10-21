@@ -32,7 +32,7 @@ RUN apt-get update && apt-get install -y gnuplot \
 # in non-privileged containers
 RUN sed -i 's/[ \t]*ulimit.*/:/g' /etc/init.d/redis-server
 
-RUN npm install --unsafe-perm --global balena-cli puppeteer@5.2.1
+RUN npm install --unsafe-perm --global balena-cli puppeteer@5.3.1
 
 # So we can skip chromium downloads later
 RUN /bin/bash -l -c 'ln -s $(find $(npm root -g) -type f -executable -name chrome) /usr/local/bin/chrome'
