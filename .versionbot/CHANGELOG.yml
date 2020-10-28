@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add missing libs for chrome binary
+      hash: 78c2d009f9063901a24f314ecaf9eac743d91674
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+        signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+      author: Marios Balamatsias
+      nested: []
+  version: 1.3.21
+  date: 2020-10-28T17:54:48.978Z
+- commits:
     - subject: Clean up Dockerfile.test
       hash: f2fcf22a16a089cdc17f5e769206fb6dc455e74f
       body: ''
