@@ -1,4 +1,4 @@
-FROM balena/open-balena-base:v10.1.1
+FROM balena/open-balena-base:v11.0.1
 
 ENV PUPPETEER_EXECUTABLE_PATH=/usr/local/bin/chrome
 
