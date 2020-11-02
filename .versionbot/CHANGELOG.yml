@@ -1,4 +1,17 @@
 - commits:
+    - subject: Bump puppeteer to 5.4.1
+      hash: a82d12cd427b4112b53abc1f9bbad769c13c4a04
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.22
+  date: 2020-11-02T08:51:21.180Z
+- commits:
     - subject: Add missing libs for chrome binary
       hash: 78c2d009f9063901a24f314ecaf9eac743d91674
       body: ''
