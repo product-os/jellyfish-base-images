@@ -9,5 +9,5 @@ RUN apt-get update && apt-get install -y libx11-xcb1 libxcomposite1 \
 	libxcb-dri3-0 libdrm-dev libgbm-dev
 
 # So we can skip chromium downloads later
-RUN npm install --unsafe-perm --global puppeteer@5.3.1
+RUN npm install --unsafe-perm --global puppeteer@5.4.1
 RUN /bin/bash -l -c 'ln -s $(find $(npm root -g) -type f -executable -name chrome) /usr/local/bin/chrome'
