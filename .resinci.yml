@@ -4,6 +4,3 @@ docker:
     - path: .
       dockerfile: Dockerfile.test
       docker_repo: resinci/jellyfish-test
-    - path: .
-      dockerfile: Dockerfile.sidecar
-      docker_repo: resinci/jellyfish-sidecar
