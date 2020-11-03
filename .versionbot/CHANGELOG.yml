@@ -1,4 +1,27 @@
 - commits:
+    - subject: Remove sidecar Dockerfile
+      hash: 981bb7995802d3ade61710c668e8601f127e8205
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+    - subject: Use package.json to install puppeteer
+      hash: d7560bf2c0a5b1655b214b25512ef34ab4fb55fc
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.26
+  date: 2020-11-03T15:17:07.204Z
+- commits:
     - subject: Fix Renovate config for Dockerfiles
       hash: 55e88b1b0f54e1afb5fe61b06edbb8115ca9fa6b
       body: ''
