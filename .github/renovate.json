@@ -5,7 +5,7 @@
   ],
   "ignorePaths": [],
   "enabledManagers": [
-    "docker"
+    "dockerfile"
   ],
   "pruneStaleBranches": false,
   "rangeStrategy": "bump",
