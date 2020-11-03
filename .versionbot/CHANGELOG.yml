@@ -1,4 +1,17 @@
 - commits:
+    - subject: Fix Renovate config for Dockerfiles
+      hash: 55e88b1b0f54e1afb5fe61b06edbb8115ca9fa6b
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.25
+  date: 2020-11-03T06:47:19.408Z
+- commits:
     - subject: Add Renovate to bump base docker images
       hash: a304f382de2785ec0bd1e3189883d50cf1571bff
       body: ''
