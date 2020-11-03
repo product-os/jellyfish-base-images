@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add Renovate to bump base docker images
+      hash: a304f382de2785ec0bd1e3189883d50cf1571bff
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.24
+  date: 2020-11-03T06:18:20.008Z
+- commits:
     - subject: Bump base image versions
       hash: 7b79e95df36a6e71f7ec48396bdc8539e4f8ee21
       body: ''
