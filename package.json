@@ -1,0 +1,19 @@
+{
+  "name": "jellyfish-base-images",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Base docker images used to test Jellyfish",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/product-os/jellyfish-base-images.git"
+  },
+  "author": "Balena.io. <hello@balena.io>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/product-os/jellyfish-base-images/issues"
+  },
+  "homepage": "https://github.com/product-os/jellyfish-base-images#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
