@@ -1,6 +1,6 @@
 FROM balena/open-balena-base:v11.0.1
 
-WORKDIR /usr/src/jellyfish
+WORKDIR /usr/src/jellyfish-test
 
 # Install chrome dependencies
 RUN apt-get update && apt-get install -y libx11-xcb1 libxcomposite1 \
@@ -10,6 +10,6 @@ RUN apt-get update && apt-get install -y libx11-xcb1 libxcomposite1 \
 
 # So we can skip chromium downloads later
 ENV PUPPETEER_EXECUTABLE_PATH=/usr/local/bin/chrome
-COPY package*.json /usr/src/jellyfish/
+COPY package*.json /usr/src/jellyfish-test/
 RUN npm install && \
-      /bin/bash -l -c 'ln -s $(find /usr/src/jellyfish/node_modules -type f -executable -name chrome) $PUPPETEER_EXECUTABLE_PATH'
+      /bin/bash -l -c 'ln -s $(find /usr/src/jellyfish-test/node_modules -type f -executable -name chrome) $PUPPETEER_EXECUTABLE_PATH'
