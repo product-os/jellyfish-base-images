@@ -1,4 +1,17 @@
 - commits:
+    - subject: Move chrome install to avoid conflicts
+      hash: bfb8043dda99cd88f13963025d0167f9c985f272
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.27
+  date: 2020-11-04T01:09:19.822Z
+- commits:
     - subject: Remove sidecar Dockerfile
       hash: 981bb7995802d3ade61710c668e8601f127e8205
       body: ''
