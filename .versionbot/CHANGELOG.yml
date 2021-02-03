@@ -1,4 +1,17 @@
 - commits:
+    - subject: Bump puppeteer to 7.0.0
+      hash: 5b78ba73ceae1b8c768213c59d15aa980dc77a45
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.30
+  date: 2021-02-03T23:48:19.084Z
+- commits:
     - subject: Update postgresql-client to 12
       hash: 58078e2c78743291dfc79de71883c5bf86a94aa7
       body: ''
