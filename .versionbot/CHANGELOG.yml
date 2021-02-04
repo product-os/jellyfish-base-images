@@ -1,4 +1,17 @@
 - commits:
+    - subject: Bump open-balena-base to v11.0.4
+      hash: 8873ac9d7afd3c73f25a691e734a97bb6c0b9463
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.32
+  date: 2021-02-04T04:07:59.059Z
+- commits:
     - subject: Add new chrome dependency libxshmfence1
       hash: 00c8c16beefe498371c0fffbe0153fa66214a2a5
       body: ''
