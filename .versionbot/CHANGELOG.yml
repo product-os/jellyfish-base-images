@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add new chrome dependency libxshmfence1
+      hash: 00c8c16beefe498371c0fffbe0153fa66214a2a5
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.3.31
+  date: 2021-02-04T01:56:46.101Z
+- commits:
     - subject: Bump puppeteer to 7.0.0
       hash: 5b78ba73ceae1b8c768213c59d15aa980dc77a45
       body: ''
