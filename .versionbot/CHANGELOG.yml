@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency puppeteer to ^7.0.1'
+      hash: fe1b5b533f2d3d1485f95e3c82fc6c5076218e29
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.3.33
+  date: 2021-02-07T01:01:39.133Z
+- commits:
     - subject: Bump open-balena-base to v11.0.4
       hash: 8873ac9d7afd3c73f25a691e734a97bb6c0b9463
       body: ''
