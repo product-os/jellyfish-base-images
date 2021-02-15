@@ -18,7 +18,7 @@
   "packageRules": [
     {
       "groupName": "non-major",
-      "updateTypes": [
+      "matchUpdateTypes": [
         "minor",
         "patch"
       ],
