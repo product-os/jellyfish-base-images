@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.2.0'
+      hash: b7146fa4454c05e1e893c7ca9212f3489872c187
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.3.46
+  date: 2021-05-14T16:52:10.902Z
+- commits:
     - subject: 'patch: Update dependency puppeteer to ^9.1.1'
       hash: 2cf12ac73a0fa1af503459bfdc52289612513429
       body: ''
