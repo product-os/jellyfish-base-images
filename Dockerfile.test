@@ -2,6 +2,9 @@ FROM balena/open-balena-base:v11.2.0
 
 WORKDIR /usr/src/jellyfish-test
 
+# Download go-task (taskfile)
+RUN sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d -b /usr/local/bin
+
 # Add repository for postgresql-client-12
 RUN echo "deb http://apt.postgresql.org/pub/repos/apt/ buster-pgdg main" > /etc/apt/sources.list.d/pgdg.list
 RUN wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add -
