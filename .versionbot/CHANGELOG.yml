@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update non-major Docker tags'
+      hash: 9978c0d036e1bea4364246715f356b02fdb148ca
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.4.1
+  date: 2021-07-02T02:23:20.533Z
+- commits:
     - subject: Add go-task binary
       hash: 9b3460fa0f1231b445bde6afcaf9d42a2abfce7c
       body: ''
