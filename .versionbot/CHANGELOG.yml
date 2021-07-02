@@ -1,4 +1,17 @@
 - commits:
+    - subject: Add go-task binary
+      hash: 9b3460fa0f1231b445bde6afcaf9d42a2abfce7c
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 1.4.0
+  date: 2021-07-02T02:12:00.503Z
+- commits:
     - subject: Remove package-lock.json
       hash: 75547eef8ecf05d7254d1ec57f0a451675a12cba
       body: ''
