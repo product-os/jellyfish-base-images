@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.4'
+      hash: 6432218098b6d929740e1a42c2d0f308771efada
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.4.4
+  date: 2021-07-30T17:24:29.528Z
+- commits:
     - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.3'
       hash: 7071a7f822798227e3ca98e1a42d3cea4adf20b5
       body: ''
