@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/product-os/jellyfish-base-images#readme",
   "dependencies": {
-    "puppeteer": "^10.1.0"
+    "puppeteer": "^10.2.0"
   },
   "versionist": {
     "publishedAt": "2021-07-30T20:23:27.597Z"
