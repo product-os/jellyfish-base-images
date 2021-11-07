@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency puppeteer to v11'
+      hash: 837948612589511db15a40911d297e3f3b5890b6
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.4.11
+  date: 2021-11-03T11:40:41.915Z
+- commits:
     - subject: 'patch: Update dependency puppeteer to ^10.4.0'
       hash: b11f400d5dec197244f88a9df5c7cf8266567814
       body: ''
