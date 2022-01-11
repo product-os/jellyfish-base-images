@@ -1,5 +1,10 @@
 FROM balena/open-balena-base:v13.0.3
 
+ARG NVM_VERSION=v0.39.0
+
+ENV HOME /root
+ENV NVM_DIR "${HOME}/.nvm"
+
 WORKDIR /usr/src/jellyfish-test
 
 # Download go-task (taskfile)
@@ -7,16 +12,19 @@ RUN sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d -b /usr/loc
 
 # Add repository for postgresql-client-12
 RUN echo "deb http://apt.postgresql.org/pub/repos/apt/ buster-pgdg main" > /etc/apt/sources.list.d/pgdg.list
-RUN wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add -
+RUN wget -qO- https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add -
 
-# Install chrome dependencies and postgresql-client
+# Install chrome dependencies and postgresql-client, etc.
 RUN apt-get update && apt-get install -y libx11-xcb1 libxcomposite1 \
 	libxcursor1 libxdamage1 libxi6 libxtst6 libnss3 libcups2 libxss1 libxrandr2 \
 	gconf-gsettings-backend libasound2 libatk1.0-0 libgtk-3-0 libxshmfence1 \
-	libxcb-dri3-0 libdrm-dev libgbm-dev postgresql-client-12 && rm -rf /var/lib/apt/lists/*
+	libxcb-dri3-0 libdrm-dev libgbm-dev postgresql-client-12 shellcheck \
+	libnss3-tools && rm -rf /var/lib/apt/lists/*
 
 # So we can skip chromium downloads later
 ENV PUPPETEER_EXECUTABLE_PATH=/usr/local/bin/chrome
 COPY package*.json /usr/src/jellyfish-test/
 RUN npm install && \
       /bin/bash -l -c 'ln -s $(find /usr/src/jellyfish-test/node_modules -type f -executable -name chrome) $PUPPETEER_EXECUTABLE_PATH'
+
+RUN wget -qO- "https://raw.githubusercontent.com/nvm-sh/nvm/${NVM_VERSION}/install.sh" | /bin/bash
