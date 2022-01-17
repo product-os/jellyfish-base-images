@@ -1,6 +1,6 @@
 {
   "name": "jellyfish-base-images",
-  "version": "1.4.18",
+  "version": "1.4.19",
   "private": true,
   "description": "Base docker images used to test Jellyfish",
   "repository": {
@@ -17,6 +17,6 @@
     "puppeteer": "^13.1.0"
   },
   "versionist": {
-    "publishedAt": "2022-01-11T20:29:45.103Z"
+    "publishedAt": "2022-01-17T16:59:37.464Z"
   }
 }
