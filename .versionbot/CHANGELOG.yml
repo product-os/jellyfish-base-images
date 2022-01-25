@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'patch: Update dependency puppeteer to ^13.1.2'
+      hash: b7ba4c84d65fde272a893f704c7c06c496a1be39
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.4.21
+  date: 2022-01-25T08:24:47.222Z
+- commits:
     - subject: 'patch: Update dependency puppeteer to ^13.1.1'
       hash: d579b51ce1b9729d774d00805887bcc9e4714ecc
       body: ''
