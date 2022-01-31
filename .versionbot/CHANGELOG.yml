@@ -1,7 +1,19 @@
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^13.1.2'
+    - subject: "patch: Update dependency puppeteer to ^13.1.3"
+      hash: 790055e6525f4cbd4fb89e2d44824886196b4783
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 1.4.22
+  title: "patch: Update dependency puppeteer to ^13.1.3"
+  date: 2022-01-31T10:51:09.327Z
+- commits:
+    - subject: "patch: Update dependency puppeteer to ^13.1.2"
       hash: b7ba4c84d65fde272a893f704c7c06c496a1be39
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -10,9 +22,9 @@
   version: 1.4.21
   date: 2022-01-25T08:24:47.222Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^13.1.1'
+    - subject: "patch: Update dependency puppeteer to ^13.1.1"
       hash: d579b51ce1b9729d774d00805887bcc9e4714ecc
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -21,9 +33,9 @@
   version: 1.4.20
   date: 2022-01-18T09:29:36.157Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^13.1.0'
+    - subject: "patch: Update dependency puppeteer to ^13.1.0"
       hash: 80d6c2f3c617870cc2596382970c375bb1437088
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -32,9 +44,9 @@
   version: 1.4.19
   date: 2022-01-17T16:59:37.362Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v13.0.4'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v13.0.4"
       hash: 2d25ab3132a17a3e3e7f6edfa77612e77df0532e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -43,9 +55,9 @@
   version: 1.4.18
   date: 2022-01-11T20:29:45.015Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^13.0.1'
+    - subject: "patch: Update dependency puppeteer to ^13.0.1"
       hash: cd86768996a516311e6257cf2a7aee505d353e2c
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -54,17 +66,17 @@
   version: 1.4.17
   date: 2021-12-22T09:49:17.066Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v13.0.3'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v13.0.3"
       hash: 9ca373a2029c8eb024191b63e7ed72c334d1d7d8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
       author: Renovate Bot
       nested: []
-    - subject: 'patch: Update dependency puppeteer to v13'
+    - subject: "patch: Update dependency puppeteer to v13"
       hash: b86b8828a4ea61e54a546559bdd2ab7c3ac98f67
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -73,9 +85,9 @@
   version: 1.4.16
   date: 2021-12-11T09:10:20.098Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^12.0.1'
+    - subject: "patch: Update dependency puppeteer to ^12.0.1"
       hash: 143bd619828ffa11d567d7387d370708df217b22
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -84,9 +96,9 @@
   version: 1.4.15
   date: 2021-11-29T20:45:50.552Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to v12'
+    - subject: "patch: Update dependency puppeteer to v12"
       hash: 9eff825a50e40a5f88f7610e44a444ac21ae102b
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -95,9 +107,9 @@
   version: 1.4.14
   date: 2021-11-27T18:02:26.287Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v13.0.2'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v13.0.2"
       hash: b85d4c7fe837d6ac98288bafc216a6139bfaea57
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -106,9 +118,9 @@
   version: 1.4.13
   date: 2021-11-24T21:14:40.424Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v13'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v13"
       hash: 483e1128d19e72cf29213fbea0870f4a36327864
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -117,9 +129,9 @@
   version: 1.4.12
   date: 2021-11-07T02:22:57.822Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to v11'
+    - subject: "patch: Update dependency puppeteer to v11"
       hash: 837948612589511db15a40911d297e3f3b5890b6
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -128,9 +140,9 @@
   version: 1.4.11
   date: 2021-11-03T11:40:41.915Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^10.4.0'
+    - subject: "patch: Update dependency puppeteer to ^10.4.0"
       hash: b11f400d5dec197244f88a9df5c7cf8266567814
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -139,9 +151,9 @@
   version: 1.4.10
   date: 2021-10-18T20:01:27.401Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.12'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.3.12"
       hash: 8d1943d46c00c43bb902177fb6da928f6f758181
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -150,9 +162,9 @@
   version: 1.4.9
   date: 2021-08-15T01:37:19.915Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^10.2.0'
+    - subject: "patch: Update dependency puppeteer to ^10.2.0"
       hash: 13be9286d2b4abd64ca5273df0dea3c79abea686
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -161,9 +173,9 @@
   version: 1.4.8
   date: 2021-08-05T00:57:01.452Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.7'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.3.7"
       hash: f81d7ee3c7891455bb58b9648b466eb2e566dd9e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -172,9 +184,9 @@
   version: 1.4.7
   date: 2021-07-30T20:23:27.529Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.6'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.3.6"
       hash: 846bce59a212a4455c5d04e7ef6e1d6a0b9f72ed
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -183,9 +195,9 @@
   version: 1.4.6
   date: 2021-07-30T19:29:09.728Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.5'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.3.5"
       hash: 9417c21f1de7c6e01bdbef4926b0c92f58114372
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -194,9 +206,9 @@
   version: 1.4.5
   date: 2021-07-30T18:20:50.027Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.4'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.3.4"
       hash: 6432218098b6d929740e1a42c2d0f308771efada
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -205,9 +217,9 @@
   version: 1.4.4
   date: 2021-07-30T17:24:29.528Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.3'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.3.3"
       hash: 7071a7f822798227e3ca98e1a42d3cea4adf20b5
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -216,9 +228,9 @@
   version: 1.4.3
   date: 2021-07-29T16:44:10.496Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.3.2'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.3.2"
       hash: cb84cea4400b3071cdb3c824277d2ad0de5b036e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -227,9 +239,9 @@
   version: 1.4.2
   date: 2021-07-02T18:10:40.282Z
 - commits:
-    - subject: 'patch: Update non-major Docker tags'
+    - subject: "patch: Update non-major Docker tags"
       hash: 9978c0d036e1bea4364246715f356b02fdb148ca
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -240,7 +252,7 @@
 - commits:
     - subject: Add go-task binary
       hash: 9b3460fa0f1231b445bde6afcaf9d42a2abfce7c
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -253,7 +265,7 @@
 - commits:
     - subject: Remove package-lock.json
       hash: 75547eef8ecf05d7254d1ec57f0a451675a12cba
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -264,9 +276,9 @@
   version: 1.3.48
   date: 2021-06-22T00:01:09.836Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to v10'
+    - subject: "patch: Update dependency puppeteer to v10"
       hash: 69fa4f042b024c6f00bc5a4b32dcc7f86b121b66
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -275,9 +287,9 @@
   version: 1.3.47
   date: 2021-05-31T13:43:41.731Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.2.0'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.2.0"
       hash: b7146fa4454c05e1e893c7ca9212f3489872c187
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -286,9 +298,9 @@
   version: 1.3.46
   date: 2021-05-14T16:52:10.902Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^9.1.1'
+    - subject: "patch: Update dependency puppeteer to ^9.1.1"
       hash: 2cf12ac73a0fa1af503459bfdc52289612513429
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -297,9 +309,9 @@
   version: 1.3.45
   date: 2021-05-05T10:06:00.553Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^9.1.0'
+    - subject: "patch: Update dependency puppeteer to ^9.1.0"
       hash: 9e2dbb51f476028b13b0fc1d2eeaae4602edb6de
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -308,9 +320,9 @@
   version: 1.3.44
   date: 2021-05-03T12:57:37.698Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to v9'
+    - subject: "patch: Update dependency puppeteer to v9"
       hash: 0b23c9dcc8ec30ab6e41bf4b4b1c022a896d443a
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -319,9 +331,9 @@
   version: 1.3.43
   date: 2021-04-21T12:47:10.953Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.1.2'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.1.2"
       hash: 3706df85d09f242c72738ecc0d319874c7dbaf97
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -330,9 +342,9 @@
   version: 1.3.42
   date: 2021-04-08T20:04:01.234Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.1.1'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.1.1"
       hash: 804c97c1661df2f358f9d952990a42366f09f1cb
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -341,9 +353,9 @@
   version: 1.3.41
   date: 2021-03-17T16:55:40.874Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to v8'
+    - subject: "patch: Update dependency puppeteer to v8"
       hash: 90471b5a8ddcffc64a7e77e6d1ac5eec4e5933ea
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -352,9 +364,9 @@
   version: 1.3.40
   date: 2021-02-26T09:24:25.758Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.1.0'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.1.0"
       hash: 92b7df87971b8548f812217cad5b3324e36572fb
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -363,9 +375,9 @@
   version: 1.3.39
   date: 2021-02-24T16:17:30.211Z
 - commits:
-    - subject: 'patch: Update balena/open-balena-base Docker tag to v11.0.5'
+    - subject: "patch: Update balena/open-balena-base Docker tag to v11.0.5"
       hash: 75f781c1c6f4909d33b5b5347dc364c5e647489a
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -376,7 +388,7 @@
 - commits:
     - subject: Update renovate config to match latest schema
       hash: c38f5ec7f9f95cd64bcffe27f7d41d2f5ec238e3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -387,9 +399,9 @@
   version: 1.3.37
   date: 2021-02-15T07:33:30.430Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^7.1.0'
+    - subject: "patch: Update dependency puppeteer to ^7.1.0"
       hash: 9fa1b08693842cd253c82a61fb1263de3697d9c2
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -398,9 +410,9 @@
   version: 1.3.36
   date: 2021-02-12T11:35:54.978Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^7.0.4'
+    - subject: "patch: Update dependency puppeteer to ^7.0.4"
       hash: 36d112023eb0af85d53896cc3a05d1d6097f981e
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -409,9 +421,9 @@
   version: 1.3.35
   date: 2021-02-09T14:26:15.910Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^7.0.3'
+    - subject: "patch: Update dependency puppeteer to ^7.0.3"
       hash: 0985769a8d1afe25d7f3ffe149d59de2307a2a56
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -420,9 +432,9 @@
   version: 1.3.34
   date: 2021-02-09T09:20:59.175Z
 - commits:
-    - subject: 'patch: Update dependency puppeteer to ^7.0.1'
+    - subject: "patch: Update dependency puppeteer to ^7.0.1"
       hash: fe1b5b533f2d3d1485f95e3c82fc6c5076218e29
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -433,7 +445,7 @@
 - commits:
     - subject: Bump open-balena-base to v11.0.4
       hash: 8873ac9d7afd3c73f25a691e734a97bb6c0b9463
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -446,7 +458,7 @@
 - commits:
     - subject: Add new chrome dependency libxshmfence1
       hash: 00c8c16beefe498371c0fffbe0153fa66214a2a5
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -459,7 +471,7 @@
 - commits:
     - subject: Bump puppeteer to 7.0.0
       hash: 5b78ba73ceae1b8c768213c59d15aa980dc77a45
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -472,7 +484,7 @@
 - commits:
     - subject: Update postgresql-client to 12
       hash: 58078e2c78743291dfc79de71883c5bf86a94aa7
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -485,7 +497,7 @@
 - commits:
     - subject: Add postgresql client
       hash: 6e1a959e5a6ab50d81a4f5e8a3a6c584d0b3b5d3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -498,7 +510,7 @@
 - commits:
     - subject: Move chrome install to avoid conflicts
       hash: bfb8043dda99cd88f13963025d0167f9c985f272
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -511,7 +523,7 @@
 - commits:
     - subject: Remove sidecar Dockerfile
       hash: 981bb7995802d3ade61710c668e8601f127e8205
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -521,7 +533,7 @@
       nested: []
     - subject: Use package.json to install puppeteer
       hash: d7560bf2c0a5b1655b214b25512ef34ab4fb55fc
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -534,7 +546,7 @@
 - commits:
     - subject: Fix Renovate config for Dockerfiles
       hash: 55e88b1b0f54e1afb5fe61b06edbb8115ca9fa6b
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -547,7 +559,7 @@
 - commits:
     - subject: Add Renovate to bump base docker images
       hash: a304f382de2785ec0bd1e3189883d50cf1571bff
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -560,7 +572,7 @@
 - commits:
     - subject: Bump base image versions
       hash: 7b79e95df36a6e71f7ec48396bdc8539e4f8ee21
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -573,7 +585,7 @@
 - commits:
     - subject: Bump puppeteer to 5.4.1
       hash: a82d12cd427b4112b53abc1f9bbad769c13c4a04
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -586,7 +598,7 @@
 - commits:
     - subject: Add missing libs for chrome binary
       hash: 78c2d009f9063901a24f314ecaf9eac743d91674
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -599,7 +611,7 @@
 - commits:
     - subject: Clean up Dockerfile.test
       hash: f2fcf22a16a089cdc17f5e769206fb6dc455e74f
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -612,7 +624,7 @@
 - commits:
     - subject: Bump puppeteer to 5.3.1
       hash: 865d3f98f1ffac1a0fa421aac30689393ed49234
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -625,7 +637,7 @@
 - commits:
     - subject: Bump base image version
       hash: ecc6d2097d37ca55fa6fd4cdcf1de29ba7116d04
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -638,7 +650,7 @@
 - commits:
     - subject: Upgrade Postgres packages from 11 to 12
       hash: 4adefe1b72a2112ba357167822a2609fb31e6257
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -651,7 +663,7 @@
 - commits:
     - subject: Bump Puppeteer to 5.2.1
       hash: 12928c02b3a1c562a4f173c2a1c4b0ce485888f1
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -664,7 +676,7 @@
 - commits:
     - subject: Bump Puppeteer to 5.2.0
       hash: 49cd9946d4dc39d4320000d4aa26b62c244d7428
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -677,7 +689,7 @@
 - commits:
     - subject: Update puppeteer to 5.1.0
       hash: 55060ca654b61cfd4c57bd91bf5c8c395aa36dbb
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -690,7 +702,7 @@
 - commits:
     - subject: Update Puppeteer to 5.0.0
       hash: e33d579d1cd1f5016a2cea130674d29809f0d2c7
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -700,9 +712,9 @@
   version: 1.3.13
   date: 2020-07-05T01:03:35.731Z
 - commits:
-    - subject: 'Update base image tag, set chrome env var'
+    - subject: Update base image tag, set chrome env var
       hash: 9ead31814f27998057115702185f9e3b7db592cf
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -714,7 +726,7 @@
 - commits:
     - subject: Update Puppeteer to 4.0.1
       hash: 310677bdf6736001c0e18d735f4bc9056ff20a67
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -726,7 +738,7 @@
 - commits:
     - subject: Update Puppeteer to 4.0.0
       hash: 733e9978dc19f19a6368c9178ef353eb150c15a7
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -738,7 +750,7 @@
 - commits:
     - subject: Update puppeteer to 3.3.0
       hash: b259024f60f9d7dca7c9ef98db126955614e732b
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -750,7 +762,7 @@
 - commits:
     - subject: Add packages for Puppeteer in sidecar
       hash: 425cbfbccd713d89f846ffe9fd17691c144fe945
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -762,7 +774,7 @@
 - commits:
     - subject: Remove CODEOWNERS
       hash: f26bb9d817e61802b5410b81d4f5378487c79473
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -774,7 +786,7 @@
 - commits:
     - subject: Update README
       hash: f430072c9270353560a9ab89e4787595af4c8b0c
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -786,7 +798,7 @@
 - commits:
     - subject: Update CODEOWNERS
       hash: 21e150957e5ed9b7519a2acbb52cce001cf912f8
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -798,7 +810,7 @@
 - commits:
     - subject: Add puppeteer to skip downloading later
       hash: e2a6b8792d0c50dd2a32319591038535bec104c3
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -810,7 +822,7 @@
 - commits:
     - subject: Update README.md
       hash: 0a5f1d7e6d806db164a7d436e64dd0fb77ece848
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -822,7 +834,7 @@
 - commits:
     - subject: Update CODEOWNERS
       hash: bbf4c68ebd97db0411c63e0972fc4c3e8470791c
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -834,7 +846,7 @@
 - commits:
     - subject: Update open-balena-base to latest 9.2.1
       hash: f6a9984b80666c262124745f84d87cd920dcffee
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -846,7 +858,7 @@
 - commits:
     - subject: Update open-balena-base to latest 9.2.0
       hash: 69009eb82d21b75f45860016726b67d942b968e2
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -856,11 +868,10 @@
   version: 1.3.0
   date: 2020-02-17T08:58:12.252Z
 - commits:
-    - subject: >-
-        Introduce jellyfish-sidecar, sidecar base image used when running e2e
+    - subject: Introduce jellyfish-sidecar, sidecar base image used when running e2e
         tests
       hash: 09571e84000e2d7cd15fdd41bed54ac6ab590c22
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -869,7 +880,7 @@
       author: Federico Fissore
     - subject: Update open-balena-base to latest 9.1.0
       hash: d449a712a364827f8277f7d055f0895fa525dfac
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -881,7 +892,7 @@
 - commits:
     - subject: Update open-balena-base to 9.0.4
       hash: 24fa4700ac358bbc6b0c178fe45f22b7e71c0d56
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -893,7 +904,7 @@
 - commits:
     - subject: Updated open-balena-base to 9.0.3
       hash: 2dba6268a3edf205fbaf5a4b2b24624673f5ece1
-      body: ''
+      body: ""
       footer:
         Change-type: patch
         change-type: patch
@@ -905,7 +916,7 @@
 - commits:
     - subject: Drop jellyfish-base image Add rabbitmq stuff to jellyfish-test image
       hash: f7651a15c099927653f56449aced3f31e4df95d2
-      body: ''
+      body: ""
       footer:
         Change-type: minor
         change-type: minor
@@ -917,7 +928,7 @@
 - commits:
     - subject: README.md
       hash: 206119021f1ee5a944612ffd23f48f4c3a4eda59
-      body: ''
+      body: ""
       footer:
         Change-type: major
         change-type: major
@@ -926,7 +937,7 @@
       author: Federico Fissore
     - subject: First impl
       hash: 09611505faf0c31e8514eca30ec7dd2c78399013
-      body: ''
+      body: ""
       footer:
         Change-type: major
         change-type: major
