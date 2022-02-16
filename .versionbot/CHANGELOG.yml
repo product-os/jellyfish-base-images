@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: Update dependency playwright to ^1.19.1"
+      hash: f31d5be73613a681dbe2a17033673f4b6f51ca05
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 2.0.1
+  title: "'patch: Update dependency playwright to ^1.19.1'"
+  date: 2022-02-16T08:02:52.609Z
+- commits:
     - subject: Replace puppeteer with playwright
       hash: d3adddbf1e79bfda4652bd3856644a09fd0e0ce2
       body: ""
