@@ -1,4 +1,18 @@
 - commits:
+    - subject: Replace puppeteer with playwright
+      hash: d3adddbf1e79bfda4652bd3856644a09fd0e0ce2
+      body: ""
+      footer:
+        Change-type: major
+        change-type: major
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 2.0.0
+  title: "'Replace puppeteer with playwright'"
+  date: 2022-02-16T06:27:48.831Z
+- commits:
     - subject: "patch: Update dependency balena/open-balena-base to v13.0.6"
       hash: 4d344141d3885870f3bda6116ac43f7aa334b839
       body: ""
