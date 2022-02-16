@@ -13,10 +13,10 @@
     "url": "https://github.com/product-os/jellyfish-base-images/issues"
   },
   "homepage": "https://github.com/product-os/jellyfish-base-images#readme",
-  "dependencies": {
-    "puppeteer": "^13.3.2"
-  },
   "versionist": {
     "publishedAt": "2022-02-15T20:29:17.414Z"
+  },
+  "dependencies": {
+    "playwright": "^1.19.0"
   }
 }
