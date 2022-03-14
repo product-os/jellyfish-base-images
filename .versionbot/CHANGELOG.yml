@@ -1,4 +1,18 @@
 - commits:
+    - subject: Install `postgresql-client-13` instead of version 12
+      hash: b230b3dc59168b26c38077ab4567429f891ed5d2
+      body: ""
+      footer:
+        Change-type: major
+        change-type: major
+        Signed-off-by: Carol Schulze <carol@ereski.org>
+        signed-off-by: Carol Schulze <carol@ereski.org>
+      author: Carol Schulze
+      nested: []
+  version: 3.0.0
+  title: "'Install  instead of version 12'"
+  date: 2022-03-14T18:14:12.369Z
+- commits:
     - subject: "patch: Update dependency playwright to ^1.19.2"
       hash: 489373685e1e97a5f52fb6e44f03a6f2d42fd036
       body: ""
