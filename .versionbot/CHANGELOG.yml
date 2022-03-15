@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: Update dependency playwright to ^1.20.0"
+      hash: 0c120714e2af43d53ff3931859c01f46a6376449
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 3.0.1
+  title: "'patch: Update dependency playwright to ^1.20.0'"
+  date: 2022-03-15T00:26:52.141Z
+- commits:
     - subject: Install `postgresql-client-13` instead of version 12
       hash: b230b3dc59168b26c38077ab4567429f891ed5d2
       body: ""
