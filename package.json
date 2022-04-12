@@ -17,6 +17,6 @@
     "publishedAt": "2022-04-08T21:25:49.038Z"
   },
   "dependencies": {
-    "playwright": "^1.20.2"
+    "playwright": "^1.21.0"
   }
 }
