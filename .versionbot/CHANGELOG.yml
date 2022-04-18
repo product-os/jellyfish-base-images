@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: Update dependency playwright to ^1.21.1"
+      hash: a7cefec57191e0bd2b1685b1ed67c26f92aad136
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 3.0.8
+  title: "'patch: Update dependency playwright to ^1.21.1'"
+  date: 2022-04-18T22:44:18.907Z
+- commits:
     - subject: "patch: Update dependency playwright to ^1.21.0"
       hash: e04e2b4f781a3fd70fbc133d43b364ad536b2d3f
       body: ""
