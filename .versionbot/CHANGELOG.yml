@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: Update dependency balena/open-balena-base to v13.3.1"
+      hash: a9d23043601eb07346cd0688086b34eeea4c2608
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+      nested: []
+  version: 3.0.10
+  title: "'patch: Update dependency balena/open-balena-base to v13.3.1'"
+  date: 2022-05-05T10:10:38.254Z
+- commits:
     - subject: "patch: Update dependency balena/open-balena-base to v13.3.0"
       hash: 1412a8e07f68df814aa00f1b588aacf5a3ddf90f
       body: ""
