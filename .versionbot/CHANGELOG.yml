@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add packages, disable recommends install
+      hash: 63fd01e73aa30b5a799b87790a3a99cb0d8bd013
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 3.1.0
+  title: "'Add packages, disable recommends install'"
+  date: 2022-06-09T04:58:45.435Z
+- commits:
     - subject: "patch: Update dependency balena/open-balena-base to v13.3.2"
       hash: 480366e12a601fe3fb5759911093b62e61c47719
       body: ""
