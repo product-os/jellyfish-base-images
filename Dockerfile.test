@@ -13,13 +13,13 @@ RUN apt-get update && \
 	apt-get purge lsb-release
 RUN wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add -
 
-# Install chromium dependencies, postgresql-client, and shellcheck
+# Install chromium dependencies and postgresql-client
 RUN apt-get update && \
 	apt-get install -y --no-install-recommends libx11-xcb1 libxcomposite1 libxcursor1 \
 		libxdamage1 libxi6 libxtst6 libnss3 libnss3-tools libcups2 libxss1 libxrandr2 \
 		gconf-gsettings-backend libasound2 libatk1.0-0 libgtk-3-0 \
 		libxshmfence1 libxcb-dri3-0 libdrm-dev libgbm-dev \
-		postgresql-client-13 shellcheck && \
+		postgresql-client-13 && \
 	apt-get clean && \
 	rm -rf /var/lib/apt/lists/*
 
