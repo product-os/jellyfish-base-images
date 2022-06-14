@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update postgres client to 14
+      hash: 921fbc9164332a23a30c9dcfcc29a865a20f4ed1
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@balena.io>
+        signed-off-by: Josh Bowling <josh@balena.io>
+      author: Josh Bowling
+      nested: []
+  version: 4.0.1
+  title: "'Update postgres client to 14'"
+  date: 2022-06-14T03:02:24.568Z
+- commits:
     - subject: Drop shellcheck
       hash: 90ac3f39f3e6407528d3c8f4d2e06dc34eb0b227
       body: ""
