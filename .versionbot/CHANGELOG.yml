@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: patch: Update dependency playwright to ^1.23.0"
+      hash: 2302f4abfec112cf01051c77306623360f16a927
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 4.0.2
+  title: "'patch: patch: Update dependency playwright to ^1.23.0'"
+  date: 2022-06-27T22:43:01.561Z
+- commits:
     - subject: Update postgres client to 14
       hash: 921fbc9164332a23a30c9dcfcc29a865a20f4ed1
       body: ""
