@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: Update dependency playwright to ^1.23.3"
+      hash: f470892b4e64484682e083b13d262f910d2f4ca0
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 4.0.6
+  title: "'patch: Update dependency playwright to ^1.23.3'"
+  date: 2022-07-13T15:26:56.045Z
+- commits:
     - subject: "patch: Update dependency balena/open-balena-base to v13.4.0"
       hash: 2c874b4e18de07923e1db6201256c59f3dca6f79
       body: ""
