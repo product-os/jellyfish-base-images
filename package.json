@@ -1,6 +1,6 @@
 {
   "name": "jellyfish-base-images",
-  "version": "4.0.9",
+  "version": "4.0.10",
   "private": true,
   "description": "Base docker images used to test Jellyfish",
   "repository": {
@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/product-os/jellyfish-base-images#readme",
   "versionist": {
-    "publishedAt": "2022-07-26T14:01:32.224Z"
+    "publishedAt": "2022-07-29T19:28:43.646Z"
   },
   "dependencies": {
     "playwright": "^1.24.2"
