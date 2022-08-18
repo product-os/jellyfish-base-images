@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: Update balena/open-balena-base Docker tag to v13.5.0"
+      hash: f0f3e7be7c154e84cfb18933cb6229a22735790e
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: renovate[bot]
+      nested: []
+  version: 4.0.12
+  title: "'patch: Update balena/open-balena-base Docker tag to v13.5.0'"
+  date: 2022-08-18T22:30:59.190Z
+- commits:
     - subject: "patch: Update dependency playwright to ^1.25.0"
       hash: 02f68d9b2c446bb9fc78da4b28ffb7ab40b738ed
       body: ""
