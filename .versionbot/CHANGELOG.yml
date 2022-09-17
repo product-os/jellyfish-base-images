@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add deprecation notice
+      hash: 4ebf98bae35d38d93c2c625997674137bc02e9cb
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 4.0.15
+  title: "'Add deprecation notice'"
+  date: 2022-09-17T13:39:56.842Z
+- commits:
     - subject: "patch: Update dependency playwright to ^1.25.2"
       hash: aebdaf48529bff93aef1a2f840493a52fe633789
       body: ""
